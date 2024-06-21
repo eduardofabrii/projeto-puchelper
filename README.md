@@ -29,6 +29,6 @@ Agendamento de horário.
 
 * Pagamento:
 Registrar uma forma de pagamento (crédito, débito, pix etc.)
-Avaliar serviço
 
+* Avaliar serviço:
 Após solucionar o problema, imediante o profissional será avaliado, conforme seu metodo de elucidar o cliente. Analisando nossa flexibilidade fornecido por nós. Nosso profissional deve estar pronto para lidar com situações de emergência e disposto a atender uma necessidade especifica.
